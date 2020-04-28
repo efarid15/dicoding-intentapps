@@ -2,4 +2,6 @@
     <string name="app_name">MyIntentApp</string>
     <string name="move_activity">Pindah Activity</string>
     <string name="this_is_move_activity">This is move activity</string>
+    <string name="move_with_data">Pindah Activity Data</string>
+    <string name="data_received">Data Received</string>
 </resources>
